@@ -40,7 +40,7 @@ Systems architect, operations leader, framework builder
 Transparency is the forcing function for coherence. When everything is visible, you can't lie to yourself. This archive makes falsification structurally impossible.
 
 ## Contact
-- LinkedIn: [Joshua Johosky](linkedin.com/in/joshuajohosky) *(update with actual link once live)*
+- LinkedIn: [Joshua Johosky](linkedin.com/in/joshuajohosky)
 - Email: joshjohosky@protonmail.com
 
 ## License
